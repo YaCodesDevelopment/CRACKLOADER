@@ -1,4 +1,3 @@
 @echo off
 
-wget android.com
-pause
+downloader.exe android.com
