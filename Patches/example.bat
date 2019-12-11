@@ -1,3 +1,2 @@
 @echo off
-
-downloader.exe android.com
+wget android.com
